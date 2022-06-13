@@ -1,0 +1,32 @@
+div {
+  height: 100px;
+  width: 100px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.onclick {
+  background-color: blue;
+  margin: 4rem;
+  cursor: pointer;
+}
+
+.onclick1 {
+  background-color: blue;
+  margin: 4rem;
+  cursor: pointer;
+}
+
+.onclick2 {
+  background-color: blue;
+  margin: 4rem;
+  cursor: pointer;
+}
+.vivante {
+  background-color: green;
+  margin: 4rem;
+  cursor: pointer;
+}
